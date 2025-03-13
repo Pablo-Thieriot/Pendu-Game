@@ -1,0 +1,9 @@
+﻿  GestionDico.cpp
+C:\Users\pablo\OneDrive\Documents\Dev perso\Open_Classroom\C\Pendu\Pendu\GestionDico.cpp(6,1): warning C4005: '_CRT_SECURE_NO_WARNINGS' : redéfinition de macro
+  C:\Users\pablo\OneDrive\Documents\Dev perso\Open_Classroom\C\Pendu\Pendu\GestionDico.cpp(6,1):
+  '_CRT_SECURE_NO_WARNINGS' précédemment déclaré en ligne de commande
+  
+C:\Users\pablo\OneDrive\Documents\Dev perso\Open_Classroom\C\Pendu\Pendu\GestionDico.cpp(10,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Main.cpp
+C:\Users\pablo\OneDrive\Documents\Dev perso\Open_Classroom\C\Pendu\Pendu\Main.cpp(27,20): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  Pendu.vcxproj -> C:\Users\pablo\OneDrive\Documents\Dev perso\Open_Classroom\C\Pendu\Pendu\x64\Debug\Pendu.exe
